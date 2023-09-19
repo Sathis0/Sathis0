@@ -4,5 +4,4 @@
 - 💞️ I’m looking to collaborate on ML and cyber security
 - 📫 How to reach me sathishofficial75@gmail.com
 
-Create a new branch and push the code there after testing we can push in main branch 
 
